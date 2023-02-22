@@ -61,6 +61,10 @@ h3 {
   justify-content: space-between;
   align-items: center;
 }
+.icons {
+  display: flex;
+  align-items: start;
+}
 .material-icons {
   font-size: 24px;
   margin-left: 10px;
