@@ -22,6 +22,7 @@ export default {
         title: this.title,
         details: this.details,
         complete: false,
+        id: Math.floor(Math.random() * 10000),
       };
       console.log(project);
 
