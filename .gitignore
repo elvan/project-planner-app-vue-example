@@ -25,3 +25,4 @@ pnpm-debug.log*
 ###
 
 package-lock.json
+data/db.json
