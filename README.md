@@ -1,5 +1,23 @@
 # Vue Project Planner
 
+![Screenshot](https://raw.githubusercontent.com/elvan/project-planner-app-vue-example/main/_screenshots_/Screenshot%202024-02-13%20233809.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/project-planner-app-vue-example/main/_screenshots_/Screenshot%202024-02-13%20233826.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/project-planner-app-vue-example/main/_screenshots_/Screenshot%202024-02-13%20233837.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/project-planner-app-vue-example/main/_screenshots_/Screenshot%202024-02-13%20233850.png)
+
+---
+
+![Screenshot](https://raw.githubusercontent.com/elvan/project-planner-app-vue-example/main/_screenshots_/Screenshot%202024-02-13%20233902.png)
+
 ## Description
 
 This project is a Vue.js application designed to help users manage and track their projects effectively. It allows for the addition, update, and deletion of projects, along with dynamic filtering to view projects based on their completion status. The project leverages Vue components, routing, and a mock JSON server to simulate a full-stack application's functionality in a client-side environment.
